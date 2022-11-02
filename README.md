@@ -8,13 +8,13 @@
 
 <body>
     <h1 align="center">नमस्ते (Namaste)</h1>
-    <img src=intro.gif alt="👋 Hi there! I'm " title="👋 Hi there!  "/>
+    <img src=intro.gif alt="👋 Hi there! I'm " title="👋 Hi there!  " width ="3000" />
     
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shreyas-kumbhar-s9762430829k"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-<a href="mailto:shreyaskumbhar98@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+<a href="https://www.linkedin.com/in/shreyas-kumbhar-s9762430829k"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" height="70"/></a>
+<a href="mailto:shreyaskumbhar98@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="70"/></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyask98&label=Profile%20views&color=0e75b6&style=flat" alt="shreyask98" /> </p>
     
