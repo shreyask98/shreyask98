@@ -31,7 +31,7 @@
 <!-- - :writing_hand:Twitter...@id -->
 
 
-<img class="align" align="center" alt="GIF" src="code.gif" width="500" height="320" />
+<img class="align" align="center" alt="GIF" src="code.gif" width="700" height="320"  />
 
 <h3 align="left">Languages and Tools:</h3>
 <P>
