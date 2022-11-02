@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,48 +13,49 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shreyas-kumbhar-s9762430829k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyask98" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreyas-kumbhar-s9762430829k"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="mailto:shreyaskumbhar98@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyask98&label=Profile%20views&color=0e75b6&style=flat" alt="shreyask98" /> </p>
     
 - :earth_asia: Live in... India
 - 👀 Dedicated Data Analysis and an aspiring Data Scientist
 - :man_technologist: About My Skill... *Python *Machine Learning *MySQL 
-<!-- - :world_map:Profolio... https://poojadas93.wixsite.com/portfolio -->
-<!-- - :writing_hand:Resume...https://www.dropbox.com/s/7zzpl79cfb8xns7/Ml%20Resume.pdf?dl=0 -->
 - :point_right: LinkedIn...https://www.linkedin.com/in/shreyas-kumbhar-s9762430829k/
-<!-- - :point_right: YouTube...https://www.youtube.com/channel/UCZw3m7Ur-vgSnrKMw50KQ8Q -->
-<!-- - :writing_hand:Twitter...@Poojadas1993 -->
 - :iphone: +91-7774080070
 - 📫 How to reach me ... shreyaskumbhar98@gmail.com
+<!-- - :world_map:Profolio... https://.wixsite.com/portfolio -->
+<!-- - :writing_hand:Resume...https://www.dropbox.com/s/ -->
+
+<!-- - :point_right: YouTube...https://www.youtube.com/channel/ -->
+<!-- - :writing_hand:Twitter...@id -->
+
 
 <img class="align" align="center" alt="GIF" src="code.gif" width="500" height="320" />
 
 <h3 align="left">Languages and Tools:</h3>
-<p  </p>
-
+<P>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="50"/>
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" height="50"/>
+          
+</P        
+          
+          
+          
+          
 </body>
 </html>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     
 <!--
