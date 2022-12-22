@@ -20,7 +20,7 @@
     
 - :earth_asia: Live in... India
 - 👀 Dedicated Data Analysis and an aspiring Data Scientist
-- :man_technologist: About My Skill... *Python *Machine Learning *MySQL 
+- :man_technologist: About My Skill... *Python *Machine Learning *MySQL *Tableau *Microsoft Power BI
     
     • Machine Learning - Supervised and Unsupervised Learning (Regression, Classification, Ensemble Techniques, etc.)
 
@@ -31,6 +31,8 @@
     • Text Mining & NLP
 
     • Statistical techniques
+    
+    • Tableau, Power BI
     
 - :point_right: LinkedIn...https://www.linkedin.com/in/shreyas-kumbhar-s9762430829k/
 - :iphone: +91-7774080070
@@ -53,6 +55,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="50"/>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" height="50"/>
+    
+<img src="https://i0.wp.com/www.ela-analytics.com/wp-content/uploads/2020/05/power-bi-vector-logo-small.png?fit=377%2C260&ssl=1" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50"/>
+    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="50" />
