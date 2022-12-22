@@ -20,7 +20,7 @@
     
 - :earth_asia: Live in... India
 - 👀 Dedicated Data Analysis and an aspiring Data Scientist
-- :man_technologist: About My Skill... *Python *Machine Learning *MySQL *Tableau *Microsoft Power BI
+- :man_technologist: About My Skill...``` var skills = ["Machine Learning", "Python", "MySQL", "Statistics", "Tableau", "Microsoft Power BI"] ```
     
     • Machine Learning - Supervised and Unsupervised Learning (Regression, Classification, Ensemble Techniques, etc.)
 
