@@ -44,7 +44,7 @@
 <!-- - :writing_hand:Twitter...@id -->
 
 
-<img class="align" align="center" alt="GIF" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif" width="700" height="320"  />
+<img class="align" align="center" alt="GIF" src="https://indoanalytica.com/static/images/data-science-2.gif" width="700" height="350"  />
 
 <h3 align="left">Languages and Tools:</h3>
 <P> 
