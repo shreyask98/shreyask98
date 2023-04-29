@@ -8,7 +8,7 @@
 
 <body>
     <h1 align="center">नमस्ते (Namaste)</h1>
-    <img src=intro.gif alt="👋 Hi there! I'm " title="👋 Hi there!  " width ="3000" />
+    <!--  <img src=intro.gif alt="👋 Hi there! I'm " title="👋 Hi there!  " width ="3000" /> --> 
     
 
 <h3 align="left">Connect with me:</h3>
